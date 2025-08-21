@@ -39,7 +39,7 @@
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](your-kaggle-url)  
+[![Kaggle] https://www.kaggle.com/satyammishra256
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)  
 
 ⭐ *Always open to collaboration, learning, and building cool AI projects!* 
